@@ -5,6 +5,8 @@
 
 A production-ready full-stack application designed to showcase advanced DevOps, SRE, and Platform Engineering capabilities.
 
+Development Note: AI tools were used during development for code assistance, debugging, and troubleshooting. I reviewed, modified, integrated, and tested the implementation and can explain the project's architecture and design decisions.
+
 ## 🚀 Overview
 
 This repository contains a modern e-commerce application ("DevOpsShop") built with a modular architecture, ready for containerization, orchestration, and automated fault recovery.
